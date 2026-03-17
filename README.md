@@ -92,3 +92,7 @@ Input Image (3×512×512)
    Output (2×512×512)
 ```
 
+## Dataset
+
+The re-annotated Bijie landslide dataset is available at: https://pan.baidu.com/s/1jJu7FsnT_h41xiON3Nr0yA?pwd=9pja 提取码: 9pja
+
