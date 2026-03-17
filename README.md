@@ -92,19 +92,3 @@ Input Image (3×512×512)
    Output (2×512×512)
 ```
 
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@article{landslide_segformer,
-  title={LandslideSegFormer: Lightweight Landslide Segmentation with Enhanced Mix Transformer},
-  author={Your Name},
-  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
-  year={2025}
-}
-```
-
-## License
-
-This project is released under the MIT License.
